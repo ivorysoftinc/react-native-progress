@@ -135,7 +135,7 @@ export default class ProgressBar extends Component {
       width,
       borderWidth,
       borderColor: borderColor || color,
-      borderRadius,
+      // borderRadius,
       overflow: 'hidden',
       backgroundColor: unfilledColor,
     };
